@@ -27,6 +27,6 @@ and I focus on **embedding AI into real engineering workflows** — shipping ver
 #### ✍️ Writing
 
 - Blog: https://mabui.org
-- Zenn: _coming soon_
+- Zenn: https://zenn.dev/mabuix
 
 <!-- 📫 Contact（X / メール等をここに追記）-->
